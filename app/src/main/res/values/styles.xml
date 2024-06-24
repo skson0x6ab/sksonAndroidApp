@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme.Dark" parent="Theme.AppCompat">
+
+        <!-- 추가적인 테마 속성 정의 -->
+    </style>
+
+    <!-- 다른 스타일들도 정의할 수 있음 -->
+
+</resources>
